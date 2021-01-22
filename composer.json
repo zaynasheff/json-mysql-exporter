@@ -1,0 +1,20 @@
+{
+    "name": "770studio/json-mysql-exporter",
+    "description": "Data export tool",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "770studio",
+            "email": "info@770studio.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+          "SevenSeventyStudio\\JsonMysqlExporter\\": "/src"
+        }
+    },
+    "require": {}
+
+}
